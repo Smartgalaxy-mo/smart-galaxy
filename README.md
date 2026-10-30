@@ -1,2 +1,2 @@
-# smart-galaxy
+# smart
 gestion d'entreprise
